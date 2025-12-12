@@ -9,7 +9,7 @@ SRC_URI="https://github.com/mandriota/${PN}/archive/refs/tags/v${PV}.tar.gz -> $
 
 LICENSE="Zlib"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="~x86"
 
 RDEPEND="
   >=app-text/zathura-0.5.3
